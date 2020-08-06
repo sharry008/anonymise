@@ -1,2 +1,2 @@
-<Your bot token here>
-<Your telegram unique identifier here>
+<1148398417:AAE1lLWakR8anF_eFa30t2aIo6RhK4G5ZHU>
+<587604584>
