@@ -1,0 +1,2 @@
+<Your bot token here>
+<Your telegram unique identifier here>
